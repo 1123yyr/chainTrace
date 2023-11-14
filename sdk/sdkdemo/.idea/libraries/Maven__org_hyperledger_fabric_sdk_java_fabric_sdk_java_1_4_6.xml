@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hyperledger.fabric-sdk-java:fabric-sdk-java:1.4.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../source/repository/org/hyperledger/fabric-sdk-java/fabric-sdk-java/1.4.6/fabric-sdk-java-1.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../source/repository/org/hyperledger/fabric-sdk-java/fabric-sdk-java/1.4.6/fabric-sdk-java-1.4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../source/repository/org/hyperledger/fabric-sdk-java/fabric-sdk-java/1.4.6/fabric-sdk-java-1.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

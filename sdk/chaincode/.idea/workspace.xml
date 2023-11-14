@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43251e41-97a0-432a-9005-1508da19a9c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:\Environment\GO" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\myMaven\respository_shine" />
+        <option name="mavenHome" value="D:\software\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\myMaven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rD6LrOeiFllxAo4LNeaikbLKEH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43251e41-97a0-432a-9005-1508da19a9c5" name="Default Changelist" comment="" />
+      <created>1618498259738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618498259738</updated>
+      <workItem from="1618498260773" duration="3890000" />
+      <workItem from="1618637376782" duration="10886000" />
+      <workItem from="1618730779029" duration="1542000" />
+      <workItem from="1619449110807" duration="752000" />
+      <workItem from="1619490456214" duration="88000" />
+      <workItem from="1619516351634" duration="6000" />
+      <workItem from="1619527963987" duration="6322000" />
+      <workItem from="1619571730679" duration="6155000" />
+      <workItem from="1620611018146" duration="606000" />
+      <workItem from="1620722479929" duration="267000" />
+      <workItem from="1620795478038" duration="38000" />
+      <workItem from="1620912139457" duration="2856000" />
+      <workItem from="1621133344065" duration="1523000" />
+      <workItem from="1621180410208" duration="1035000" />
+      <workItem from="1621474454899" duration="2835000" />
+      <workItem from="1621478286753" duration="992000" />
+      <workItem from="1621479934405" duration="391000" />
+      <workItem from="1653726942802" duration="1769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619584659002">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1619584659002" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1621238442640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1621238442639" />
+    <state x="249" y="6" key="SettingsEditor" timestamp="1621480164192">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1621480164192" />
+  </component>
+</project>

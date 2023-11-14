@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.guava:guava:26.0-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../source/repository/com/google/guava/guava/26.0-android/guava-26.0-android.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../source/repository/com/google/guava/guava/26.0-android/guava-26.0-android-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../source/repository/com/google/guava/guava/26.0-android/guava-26.0-android-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
